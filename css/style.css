@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  margin: 0;
+  background-color: black;
+}
+
+.logo {
+  height: 70px;
+  border-radius: 50%;
+  width: 220px;
+  margin-left: 10%;
+  cursor: pointer;
+}
+
+main {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  padding-top: 150px;
+  padding-bottom: 50px;
+  background-color: #f2f2f2;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+  margin-bottom: 45px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+footer {
+  height: 30px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
